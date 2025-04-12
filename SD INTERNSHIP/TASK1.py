@@ -39,5 +39,4 @@ def temperature_converter():
     else:
         print("Invalid unit. Please enter 'Celsius', 'Fahrenheit', or 'Kelvin'.")
 
-# Call the temperature_converter function to run the program
 temperature_converter()
